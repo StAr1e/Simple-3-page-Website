@@ -1,0 +1,43 @@
+.header{
+    width: 1400px;
+    height: 80px;
+    background: red;
+}
+h1{
+    font-size: 25px;
+    color: #ffffff;
+    margin-left: 50px;
+    margin-top: -70px;
+}
+h2{
+    font-size: 25px;
+    color: #ffffff;
+    margin-left: 172px;
+    margin-top: -35px;
+}
+
+nav ul{
+    float: right;
+    margin-top: -40px;
+}
+
+ul li{
+    display: inline;
+    padding: 0;
+    margin: 0; 
+}
+
+ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 5px 20px;
+    color: #ffffff;
+}
+h3{
+    text-align: center;
+    font-size: 35px;
+}
+p{
+    text-align: center;
+    margin-top: -30px;
+}
